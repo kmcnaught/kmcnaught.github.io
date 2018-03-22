@@ -1,15 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Kirsty McNaught
+#author: Kirsty McNaught
+email: kirsty.mcnaught@gmail.com
+#description: > # this means to ignore newlines until "twitter_username:"
+#  Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description.
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+# twitter_username: 
+github_username:  kmcnaught
+# rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -36,12 +36,16 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
-
+header_pages:
+  - research.md
+  - teaching.md
+  - consulting.md
+  
 # Build settings
 markdown: kramdown
 theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+include:
+  - _pages
