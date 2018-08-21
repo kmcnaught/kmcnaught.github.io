@@ -13,7 +13,7 @@ I am an engineer, neuroscientist and programmer with a career encompassing [rese
 
 [comment]: # TODO: add direct links to research
 
-I have experience working in early-stage technology startups in the field of computer vision, where I have worked on algorithms, product development and user experience design. I also work on open-source assistive technology projects, and am passionate about using technology to help individuals lead a richer life. I am an MPhil student at the Gatsby Computational Neuroscience Unit, where I received intensive training in machine learning and theoretical neuroscience and carry out [research](research) on human visual attention. I am available to hire as a [consultant](consulting).
+I have experience working in early-stage technology startups in the field of computer vision, where I have worked on algorithms, product development and user experience design. I also work on open-source assistive technology projects, and am passionate about using technology to help make the world more accessible. I am an MPhil student at the Gatsby Computational Neuroscience Unit, where I received intensive training in machine learning and theoretical neuroscience and carry out [research](research) on human visual attention. I am available to hire as a [consultant](consulting).
 
 [comment]: # TODO: github link more explicit? 'Kirsty McNaught on github' 
 
