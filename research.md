@@ -13,6 +13,7 @@ I am an MPhil student in the Gatsby Computational Neuroscience Unit, working wit
 
 - *2016 - 2018*  MPhil Gatsby Computational Neuroscience Unit
   - In the first (taught) year I studied intensive courses in Machine Learning, Theoretical Neuroscience, Kernel Methods and Neural Data Analysis.
+  - In the second year I taught accessible Theoretical Neuroscience to experimental first-year students and wrote accompanying assignments.
  
 - *2012 - 2013*  Research assistant in Mobile Robotics Group, Oxford University
   - While in the Mobile Robotics Group, I designed and built a commercial prototype of a portable indoor laser mapping system using 2D LIDAR, stereo camera and IMU, to showcase the group’s recent research in 3D mapping. This involved mechanical design, software development and systems integration.
