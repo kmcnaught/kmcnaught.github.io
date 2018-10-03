@@ -7,7 +7,7 @@ nocite: |
   @item1, @item2
 ---
 
-I am an MPhil student in the Gatsby Computational Neuroscience Unit, working with Maneesh Sahani and Aapo Hyvarinen. I am particularly interested in how the brain deals with uncertainty and makes decisions consistent with information theoretic principles. My current work explores eye movements within a foveated system from the perspective of information gain. 
+I am an MPhil student in the Gatsby Computational Neuroscience Unit, working with Maneesh Sahani. I am particularly interested in how the brain deals with uncertainty and makes decisions consistent with information theoretic principles. My current work explores eye movements within a foveated system from the perspective of information gain. 
 
 # Academic background
 
