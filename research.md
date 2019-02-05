@@ -11,7 +11,7 @@ I am an MPhil student in the Gatsby Computational Neuroscience Unit, working wit
 
 # Academic background
 
-- *2016 - 2018*  MPhil Gatsby Computational Neuroscience Unit
+- *2016 - 2019*  MPhil Gatsby Computational Neuroscience Unit
   - In the first (taught) year I studied intensive courses in Machine Learning, Theoretical Neuroscience, Kernel Methods and Neural Data Analysis.
   - In the second year I taught accessible Theoretical Neuroscience to experimental first-year students and wrote accompanying assignments.
  
