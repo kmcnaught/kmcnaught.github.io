@@ -9,10 +9,10 @@ layout: page
 ---
 
 
-I am an engineer with a passion for building user-friendly applications to enable technology that makes a difference to individual's lives. 
+I am an engineer with a passion for building user-friendly software that can make a difference to individuals' lives. 
 
 ## Technologies
-I have a wide range of technology experience including computer vision, machine learning, and alternative input methods such as eye gaze. My experience in both industry and academia allows me to translate between business concerns, usability and technical constraints.
+I have a wide range of experience in research and development of technologies including computer vision, machine learning, 3d mapping and alternative input methods such as adaptive controllers and eye tracking. My experience in both industry and academia allows me to translate between business concerns, usability and technical constraints.
 
 ## Applications
 I work on open-source assistive technology projects, and am passionate about using technology to help empower individuals and break down unnecessary access barriers. 
