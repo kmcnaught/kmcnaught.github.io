@@ -10,7 +10,7 @@ It is currently under development, please contact kirsty.mcnaught@gmail.com if y
 
 ### Installing OK, Game On
 
-1. Install the latest version of ViGemBus from https://github.com/ViGEm/ViGEmBus/releases (run ViGEmBusSetup_x86.msi or ViGEmBusSetup_x64.msi depending if you have a 32-bit or 64-bit PC)
+1. Install the latest version of ViGemBus from [https://github.com/ViGEm/ViGEmBus/releases](https://github.com/ViGEm/ViGEmBus/releases) (run *ViGEmBusSetup_x86.msi* or *ViGEmBusSetup_x64.msi* depending if you have a 32-bit or 64-bit PC)
 
 2. Secondly, install OK Game On itself: [OKGameOnSetup-1.0.6.msi](https://www.dropbox.com/s/qr24rqx0eykqkpt/OKGameOnSetup-1.0.6.msi?dl=1)
 
