@@ -9,9 +9,13 @@ I am available to hire as a consultant. I bring experience from early stage star
 ### What can I do for you?
 Currently I'm focussing on game accessibility, and designing intuitive interfaces for eye-controlled applications. I can give feedback on eye-gaze accessibility, UX design and onboarding. I can adapt and extend existing games or applications to make them suitable for eye-gaze, or I can protoype new interaction paradigms for your specific application.
 
-I'm also always interested to hear from companies from other fields who have promising lab protoypes of new techologies and want advice on turning them into intuitive and easy to use applications. 
+I'm also always interested to hear from companies from other fields who have promising lab prototypes of new techologies and want advice on turning them into intuitive and easy to use applications. 
 
 ### Past consulting projects
+
+
+#### CraytaAccess - building games with eye control
+I worked with [Unit2 Games](https://unit2games.com/) to build an eye-controlled interface for [Crayta](https://www.crayta.com/) to allow users with physical disabilities to build their own games with everyone else. 
 
 #### EyeMine - eye controlled Minecraft
 EyeMine is a project that allows players with disabilities to access Minecraft using only eye control. It was built for the charity SpecialEffect, and is entirely open source. 
