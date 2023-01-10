@@ -7,9 +7,12 @@ permalink: /consulting/
 I am available to hire as a consultant. I bring experience from early stage startups and the world of academic research. I can bridge this gap for clients who want to bring research into the real world. I have a keen appreciation for product usability, a good awareness of accessibility and a breadth of software development experience. I speak the language of academics, users, developers and business practitioners.
 
 ### What can I do for you?
-Currently I'm focussing on game accessibility, and designing intuitive interfaces for eye-controlled applications. I can give feedback on eye-gaze accessibility, UX design and onboarding. I can adapt and extend existing games or applications to make them suitable for eye-gaze, or I can protoype new interaction paradigms for your specific application.
 
-I'm also always interested to hear from companies from other fields who have promising lab prototypes of new techologies and want advice on turning them into intuitive and easy to use applications. 
+I work on a freelance basis, helping companies to:
+- build accessible software
+- adapt existing games for eye-gaze users
+- turn lab prototypes into user-friendly professional-quality applications
+- understand accessibility concerns and assistive technology 
 
 ### Past consulting projects
 
