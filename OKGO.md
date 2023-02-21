@@ -10,9 +10,9 @@ It is currently under development, please contact kirsty.mcnaught@gmail.com if y
 
 ### Installing OK, Game On
 
-1. Install the latest version of ViGemBus from [https://github.com/ViGEm/ViGEmBus/releases](https://github.com/ViGEm/ViGEmBus/releases) (run *ViGEmBusSetup_x86.msi* or *ViGEmBusSetup_x64.msi* depending if you have a 32-bit or 64-bit PC)
+1. Install the latest version of ViGemBus from [Latest ViGemReleases on github](https://github.com/ViGEm/ViGEmBus/releases) (run *ViGEmBusSetup_x86.msi* or *ViGEmBusSetup_x64.msi* depending if you have a 32-bit or 64-bit PC)
 
-2. Secondly, install OK Game On itself: [OKGameOnSetup-1.0.6.msi](https://www.dropbox.com/s/qr24rqx0eykqkpt/OKGameOnSetup-1.0.6.msi?dl=1)
+2. Secondly, install OK Game On itself: [Latest OKGO releases on github](https://github.com/kmcnaught/OKGO/releases/)
 
 ### Recommendations
 
@@ -20,7 +20,7 @@ It is currently under development, please contact kirsty.mcnaught@gmail.com if y
 
 - Some games may be sensitive to launch order - e.g. they require OKGO to be running before the game is launched (or maybe vice versa). Feedback is very welcome if you take notes on this
 
-- Sometimes it may be necessary to set yout game to use “fullscreen windowed” or “windowed” + maximised 
+- Sometimes it may be necessary to set your game to use “fullscreen windowed” or “windowed” + maximised 
 
 - If the game isn't responding to OKGO, make sure the game has focus by clicking on the game
 
