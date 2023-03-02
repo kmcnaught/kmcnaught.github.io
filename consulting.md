@@ -14,11 +14,12 @@ I work on a freelance basis, helping companies to:
 - turn lab prototypes into user-friendly professional-quality applications
 - understand accessibility concerns and assistive technology 
 
+I also work with individuals on bespoke accessible setups for work and study, with a particular emphasis on eye control.
+
 ### Past consulting projects
 
-
 #### CraytaAccess - building games with eye control
-I worked with [Unit2 Games](https://unit2games.com/) to build an eye-controlled interface for [Crayta](https://www.crayta.com/) to allow users with physical disabilities to build their own games with everyone else. 
+As the accessibility consultant for [Crayta](https://www.crayta.com/) I worked with [Unit2 Games](https://unit2games.com/) to improve the accessibility of their game-creation platform. I also built a custom eye-controlled interface for to allow users with physical disabilities to build their own games with everyone else. 
 
 #### EyeMine - eye controlled Minecraft
 EyeMine is a project that allows players with disabilities to access Minecraft using only eye control. It was built for the charity SpecialEffect, and is entirely open source. 
