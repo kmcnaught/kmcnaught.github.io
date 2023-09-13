@@ -14,7 +14,7 @@ I work on a freelance basis, helping companies to:
 - turn lab prototypes into user-friendly professional-quality applications
 - understand accessibility concerns and assistive technology 
 
-I also work with individuals on bespoke accessible setups for work and study, with a particular emphasis on eye control.
+I also work with individuals on bespoke accessible setups for work and study, with a particular emphasis on eye control, and supporting customisation of [Optikey](https://github.com/OptiKey/OptiKey/issues/798) interfaces.
 
 ### Past consulting projects
 
