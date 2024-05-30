@@ -1,6 +1,6 @@
 title: Kirsty McNaught
 #author: Kirsty McNaught
-email: kirsty.mcnaught@gmail.com
+email: kirsty.mcnaught@gmail.comWIBBLE
 #description: > # this means to ignore newlines until "twitter_username:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
@@ -44,5 +44,5 @@ theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
-include:
-  - _pages
+#include:
+  #- _pages
