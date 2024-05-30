@@ -1,3 +1,26 @@
+## 2.5.1
+
+### Minor Enhancements
+
+ * Allow use and testing with Jekyll 4.x (#398)
+
+## 2.5.0
+
+### Bug Fixes
+
+ * Add `jekyll-feed` plugin in config (#228)
+
+### Minor Enhancements
+
+ * Stick footer for short posts (#223)
+ * Consolidate trigger SVG paths (#148)
+
+## 2.4.1
+
+### Bug Fixes
+
+ * Reintroduce removed social includes for backwards compatibility (#217)
+
 ## 2.4.0
 
 ### Minor Enhancements
