@@ -12,12 +12,12 @@ I have experience supporting individuals with access needs, in particular those 
 
 I work on a freelance basis, helping companies to:
 - build accessible software
-- evaluate the accessibility of their offering
+- evaluate the accessibility of their products and services
 - adapt existing games for eye-gaze users
 - turn lab prototypes into user-friendly professional-quality applications
 - understand accessibility concerns and assistive technology 
 
-I also work with individuals on bespoke accessible setups for work and study, with a particular emphasis on eye control, and supporting customisation of [Optikey](https://github.com/OptiKey/OptiKey/issues/798) interfaces.
+I also work with employers and universities to support individuals on bespoke accessible setups for work and study, with a particular emphasis on writing code, and using eye control amongst other input methods. This involves working collaboratively with the individual to support their workflows using a variety of existing tools, bespoke scripting and customisation of [Optikey](https://github.com/OptiKey/OptiKey/issues/798) interfaces.
 
 ### Past consulting and open-source projects
 
