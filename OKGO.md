@@ -8,9 +8,9 @@ permalink: /okgo/
 
 It is currently under development, please contact kirsty.mcnaught@gmail.com if you'd like to try the app as a beta tester, offer feedback and receive individualised support. 
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/50Eu3Ma32Xc" frameborder="0" allowfullscreen> </iframe>
+<!-- <iframe width="420" height="315" src="http://www.youtube.com/embed/50Eu3Ma32Xc" frameborder="0" allowfullscreen> </iframe> -->
 
-For more information, see [OKGO on github](https://github.com/kmcnaught/OKGO)
+For more information, see [OKGO wiki on github](https://github.com/kmcnaught/OKGO/wiki)
 
 ### Installing OK, Game On
 
