@@ -8,6 +8,10 @@ permalink: /okgo/
 
 It is currently under development, please contact kirsty.mcnaught@gmail.com if you'd like to try the app as a beta tester, offer feedback and receive individualised support. 
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/50Eu3Ma32Xc" frameborder="0" allowfullscreen> </iframe>
+
+For more information, see [OKGO on github](https://github.com/kmcnaught/OKGO)
+
 ### Installing OK, Game On
 
 1. Install the latest version of ViGemBus from [Latest ViGemReleases on github](https://github.com/ViGEm/ViGEmBus/releases) (run *ViGEmBusSetup_x86.msi* or *ViGEmBusSetup_x64.msi* depending if you have a 32-bit or 64-bit PC)
