@@ -38,6 +38,10 @@ Here's a demo video showing how it works:
 
 We're next working with Code.org's Music Lab, to make some fun tunes! This will be a simpler environment, more suitable for beginners and those with higher access needs. We'll keep using Grid 3 but will adapt to other software too.
 
+<div style="text-align: center;">
+    <img src="../images/code-dot-org-musiclab.jpg" alt="Screenshot of block coding interface" style="width: 40%; max-width: 400px;" />
+</div>
+
 ## Who this project is for
 
 **Main focus**: Eye gaze or head mouse users who find direct pointer control challenging.
@@ -62,9 +66,9 @@ Fill in our [registration of interest form](https://docs.google.com/forms/d/e/1F
 
 ## Why coding matters
 
-Programming opens doors to STEM careers and helps you think about problems in new ways. You can build software for your own needs. These skills should be accessible to everyone.
+Programming opens doors to STEM careers and helps you think about problems in new ways. If you understand the concepts behind how computers, games and apps work, you can modify and build software for your own needs. 
 
-Understanding how computers work makes you feel like you can create anything. Many assistive tools are built by people who don't know what your life is like. Join them and help build better assistive tech. Or make your own projects - games, apps, home automation, anything you can imagine.
+Many assistive tools are built by people who don't know truly understand what your life is like. Join them and help build better assistive tech. Or make your own projects - games, apps, home automation, anything you can imagine.
 
 <!-- IMAGE SUGGESTION: Collage showing various projects created by students - games, apps, animations -->
 
@@ -77,7 +81,7 @@ Yes, many of the interfaces work for switch access too. Get in touch for support
 No. Everything works through grid cells - no cursor control needed.
 
 **Do you only support Grid 3?**  
-No, that's just what our users so far have had. We'll adapt to whatever setup you have.
+No, that's just what our user testers so far have had. We'll adapt to whatever setup you have.
 
 **Can I become a professional developer?**  
 Maybe! Software is an accessible career since it doesn't matter how you operate your computer. New AI tools are making coding even more accessible. But you don't need to be a professional coder to have fun with block coding - there are lots of fun activities for everyone.
