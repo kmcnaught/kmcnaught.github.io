@@ -173,7 +173,7 @@ Different block coding platforms (Scratch, MakeCode, Code.org) all use the same 
 
 Programming opens doors to STEM careers and helps students think about problems in new ways. Understanding how computers, games and apps work empowers students to modify and build software for their own needs.
 
-Many assistive tools are built by people who don't fully understand what life is like for assistive tech users. We want to help students join the community of builders and create better assistive technology - or make their own projects: games, apps, home automation, anything they can imagine.
+Many assistive tools are built by people who don't fully understand what life is like for assistive tech users. We want to help students join the community of builders and create better assistive technology - or make their own projects: games, apps, home automation or anything they can imagine.
 
 ## Get involved
 

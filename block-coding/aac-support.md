@@ -8,7 +8,7 @@ permalink: /block-coding/aac-support/
 
 ## AAC coding vocabulary resources
 
-For students who use Augmentative and Alternative Communication (AAC) devices, having the right vocabulary is essential for discussing and explaining their coding work. This is especially important as they quickly outgrow the knowledge of the adults around them, and need to explain what they are trying to do. 
+For students who use Augmentative and Alternative Communication (AAC) devices, having the right vocabulary is essential for discussing and explaining their coding work. Students can quickly outgre their teacher's coding knowledge, and need to explain what they are trying to achieve. 
 
 Some students who do not yet have the assistive tech setup to enable them to code independently, may be able to use an AAC pageset to dictate their code to an assistant to get started. 
 
@@ -24,69 +24,39 @@ When students learn to code, they need to:
 
 Getting core vocabulary into their AAC device helps reduce communication barriers.
 
-### What's included
-
-
-
 ## Coding vocabulary pagesets
+
+We are developing shared resources to allow people to more quickly jump into coding.
 
 ### Asterics Grid
 
+Loreto Dumitrescu at Zero Day Camp has created gridsets for Asterics Grid. Check out their full blog post at the following link: [Giving Your Students Accessible CS Alternative Communication for Collaboration
+](https://zeroday.camp/giving-your-students-accessible-cs-alternative-communication-for-collaboration/)
+
+
+<div style="text-align: center; margin-bottom: 30px;">
+    <img src="../images/asterics_page.png" alt="Asterics gridset home page" style="width: 80%; max-width: 800px;" />
+</div>
+
 ### Grid 3
 
+Our first Grid 3 pageset includes comprehensive coding vocabulary and MakeCode-specific words for blocks in the micro:bit MakeCode editor. This comes in a grid with 10 columns, 8 cells. For alternative layouts in Grid 3 or other AAC apps, [email us](mailto:kirsty.mcnaught@gmail.com) with an empty vocabulary template and we'll send you a version that fits the required layout. 
 
+<div style="position: relative; padding-bottom: 66.66666666666666%; height: 0;"><iframe src="https://www.loom.com/embed/23a733ccd7084d84adab8cf966c3822f" title="Loom video player: Grid3 AAC pageset 10x8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<br>
 
-<div style="border-left: 4px solid #2a7ae2; padding: 20px; margin: 20px 0; background-color: #f8f9fa;">
-    <h4 style="margin-top: 0;">Core Coding Concepts</h4>
-    <ul>
-        <li>Block, code, program, script</li>
-        <li>Start, stop, run, test</li>
-        <li>Bug, error, fix, debug</li>
-        <li>Change, delete, move, connect</li>
-    </ul>
-</div>
+#### What's included
+- Categorised block vocabulary for micro:bit code, such as "show", "icon".
+- Categorised options for blocks such as icon names ("happy", "sad", "giraffe") or melodies ("dadadum", "ode", "funk")
+- Various social phrases - taken from the above Asterics pages, to ask for help, give feedback, or troubleshoot coding problems 
+- Various coding and micro:bit-related concepts and vocabulary, such as "crocodile clips", "array", "return"
 
-<div style="border-left: 4px solid #2a7ae2; padding: 20px; margin: 20px 0; background-color: #f8f9fa;">
-    <h4 style="margin-top: 0;">Programming Actions</h4>
-    <ul>
-        <li>If, then, else, repeat, forever</li>
-        <li>Variable, value, number, text</li>
-        <li>True, false, and, or, not</li>
-        <li>Function, input, output</li>
-    </ul>
-</div>
+#### Download
+#FIXME: put a coloured div here, like you have elsewhere, to make an obviosu call to action to download the file
 
-<div style="border-left: 4px solid #2a7ae2; padding: 20px; margin: 20px 0; background-color: #f8f9fa;">
-    <h4 style="margin-top: 0;">Project-Specific Terms</h4>
-    <ul>
-        <li>Platform-specific vocabulary (micro:bit, Scratch, etc.)</li>
-        <li>Sensor and hardware terms</li>
-        <li>Animation and graphics vocabulary</li>
-        <li>Game and music coding terms</li>
-    </ul>
-</div>
+## Other formats
 
-<div style="border-left: 4px solid #2a7ae2; padding: 20px; margin: 20px 0; background-color: #f8f9fa;">
-    <h4 style="margin-top: 0;">Communication Functions</h4>
-    <ul>
-        <li>I want to try...</li>
-        <li>This doesn't work</li>
-        <li>Can you help me with...</li>
-        <li>I made a mistake</li>
-        <li>Look what I made!</li>
-    </ul>
-</div>
-
-## Available formats
-
-We can provide vocabulary pagesets in formats compatible with popular AAC systems:
-
-- Grid 3
-- Tobii Dynavox systems
-- Proloquo2Go
-- TouchChat
-- LAMP Words for Life
-- Other systems on request
+We are working on pagesets for TD Snap, and Grid 3 pages with fewer rows/columns. [Email us](mailto:kirsty.mcnaught@gmail.com) to request a specific format. 
 
 ## Getting the pagesets
 
@@ -100,7 +70,7 @@ We can provide vocabulary pagesets in formats compatible with popular AAC system
     <p>Let us know what AAC system you use and what coding platform you're working with, and we'll provide appropriate vocabulary.</p>
 </div>
 
-## Customization support
+## Customisation support
 
 Every student's vocabulary needs are different. We can help customize pagesets for different software.
 
@@ -134,42 +104,16 @@ These vocabulary pagesets work alongside our other resources:
 - **Direct cursor control users**: Separate communication board for discussing code
 - **Combined approach**: Switch between coding and communication modes
 
-## Why this matters
-
-Students who use AAC shouldn't have to choose between coding and communicating about their code. Having proper vocabulary means they can:
-
-- Participate fully in classroom coding activities
-- Collaborate with peers on coding projects
-- Develop computational thinking skills
-- Advocate for their own learning needs
-- Build confidence as coders
-
 ## Feedback welcome
 
 We're continuously improving these vocabulary sets based on real-world use.
 
-**What we want to know:**
-- What vocabulary is missing?
-- What terms do students use most often?
-- How can we better organise the vocabulary?
-- What integration features would help?
-
-[Share your feedback →](mailto:kirsty.mcnaught@gmail.com)
-
-## Additional AAC resources
-
-Looking for more support around coding and communication?
-
-- Join our user testing sessions to help shape future development
-- Connect with other AAC users learning to code
-- Share your success stories
-
-[Register for updates →](https://docs.google.com/forms/d/e/1FAIpQLScUwZBrLn7O6XstouOKBpPTYDqz-kaxeoqoJMx4yrz-rHLksg/viewform)
+[Share your feedback and request spefic formats→](mailto:kirsty.mcnaught@gmail.com)
 
 ## Questions?
 
 - [Email us](mailto:kirsty.mcnaught@gmail.com) with questions about AAC vocabulary
-- Ask about customization for your specific AAC system
+- Ask about customisation for your specific AAC system
 - Request a consultation to discuss your student's needs
 
 [← Back to Block Coding](../)

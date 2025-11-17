@@ -6,7 +6,7 @@ permalink: /block-coding/direct-cursor-control/
 
 [← Back to Block Coding](../)
 
-## Resources for direct cursor control
+## Resources for Direct Cursor Control
 
 If your student can move a cursor on screen using eye gaze, joystick, head pointer, or similar devices, these resources will help make block coding more accessible.
 
@@ -55,17 +55,17 @@ To try out the prototype in a minimal environment, go to our [testing page](http
 ## General tips for cursor control
 
 <div style="border-left: 4px solid #2a7ae2; padding: 20px; margin: 20px 0; background-color: #f8f9fa;">
-    <h4 style="margin-top: 0;">Workspace organization</h4>
+    <h4 style="margin-top: 0;">Workspace Organisation</h4>
     <ul>
         <li>Zoom in to make blocks larger and easier to grab</li>
-        <li>Use the "Clean up blocks" feature to organize your workspace</li>
+        <li>Use the "Clean up blocks" feature to organise your workspace</li>
         <li>Delete unused blocks to reduce clutter</li>
         <li>Practice in an empty/small project first</li>
     </ul>
 </div>
 
 <div style="border-left: 4px solid #2a7ae2; padding: 20px; margin: 20px 0; background-color: #f8f9fa;">
-    <h4 style="margin-top: 0;">Dragging strategies</h4>
+    <h4 style="margin-top: 0;">Dragging Strategies</h4>
     <ul>
         <li>If your eye tracker supports a continuous drag (where you see the block move as you go) this works better than having to decide the end point without any visual feedback.</li>
         <li>When you want to move a block **inside another block**, you need to make sure the block lines up with the connection point</li>
@@ -75,11 +75,11 @@ To try out the prototype in a minimal environment, go to our [testing page](http
 </div>
 
 
-## Need grid-based access instead?
+## Need Grid-Based Access Instead?
 
 If direct cursor control is too challenging, grid-based access methods may be more appropriate for your student. [Learn about grid-based access resources →](../grid-based-access)
 
-## Questions or feedback?
+## Questions or Feedback?
 
 We want to hear about your experiences using these platforms with alternative access.
 
