@@ -10,11 +10,49 @@ permalink: /block-coding/direct-cursor-control/
 
 If your student can move a cursor on screen using eye gaze, joystick, head pointer, or similar devices, these resources will help make block coding more accessible.
 
-## What Works Across Platforms
+## What platforms does this work with?
 
-Most block coding platforms (Scratch, MakeCode, Code.org Music Lab) are built on similar technology called Blockly. This means general tips and tricks work across all of them when using direct cursor control.
+Most block coding platforms (Scratch, MakeCode, Code.org Music Lab) are built with the same underlaying technology, called Blockly. This means general tips and tricks work across all of them when using direct cursor control. We've also prototyped a simple coding app where you can try out coding without needing to 'drag and drop', but this version is not yet available in mainstream coding platforms.
 
-### Tips for Easier Block Coding
+## Video guides for eye gaze
+
+We are producing video guides to introduce you to using eye gaze (with direct pointer control) for coding in the micro:bit MakeCode editor.
+
+One of the biggest challenges to coding with eye gaze is dragging blocks around using direct pointer control. In our first video, keen coder Becky shows different ways she uses TD Control to drag blocks with her Tobii Dynavox eye tracker. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/klnolZLrz8s?si=9EfhCIRQy5XPGDuI" title="YouTube video player: Different ways to drag with Tobii Dynavox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+
+More videos are coming soon...
+
+- Introduction to coding in the micro:bit MakeCode editor
+- Coding on an iPad (TD Pilot)
+
+## Prototype - moving blocks with a pointing device, without using a drag.
+
+Drag-and-drop style interactions are a common challenge for many users of assistive technology, and unfortunately they play a huge part in block coding interfaces. We've developed a prototype that avoids any dragging to make coding easier for eye gaze and other alternative access users. 
+
+This prototype includes:
+
+- Move blocks using only single clicks. 
+- Click a block twice to put it in move mode.
+- See all the options for where to place the block. 
+- Click directly on a connection to place the block there. 
+
+
+<div style="position: relative; padding-bottom: 66.66666666666666%; height: 0;"><iframe src="https://www.loom.com/embed/49d03b00395841e38a517f143a62a89b" title="Loom video player: Demo of moving blocks without dragging"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<br>
+
+To try out the prototype in a minimal environment, go to our [testing page](https://kmcnaught.co.uk/blockly-keyboard-experimentation-eye-gaze/release/demo-15-oct-25/minimal-demo.html?mode=click&trigger=focused_click&highlightSize=large&optionsVisible=true). If you want to do some actual coding with it, have a play with [drawing a face](https://kmcnaught.co.uk/blockly-keyboard-experimentation-eye-gaze/release/demo-15-oct-25/?toolbox=custom&scenario=face&renderer=zelos) or [drawing a landscape](https://kmcnaught.co.uk/blockly-keyboard-experimentation-eye-gaze/release/demo-15-oct-25/?toolbox=custom&scenario=landscape&renderer=zelos) in our homemade coding app.
+
+<div style="border: 2px solid #e67e22; padding: 20px; margin: 20px 0; background-color: #fef5e7;">
+    <p style="margin-top: 0;"><strong>Want to test this prototype?</strong></p>
+    <p>We're currently seeking testers for this feature. Please try the <a href="https://kmcnaught.co.uk/blockly-keyboard-experimentation-eye-gaze/release/demo-15-oct-25/minimal-demo.html?mode=click&trigger=focused_click&highlightSize=large&optionsVisible=true">try our test app</a> and <a href="https://docs.google.com/forms/d/1OzoyHFLJYA_pM8WvwaW-fP4MSLveJuYGQ4a6tIRW56w/edit">fill in our feedback form</a>.</p>
+</div>
+<br>
+
+
+## General tips for cursor control
 
 <div style="border-left: 4px solid #2a7ae2; padding: 20px; margin: 20px 0; background-color: #f8f9fa;">
     <h4 style="margin-top: 0;">Workspace Organization</h4>
@@ -22,65 +60,20 @@ Most block coding platforms (Scratch, MakeCode, Code.org Music Lab) are built on
         <li>Zoom in to make blocks larger and easier to grab</li>
         <li>Use the "Clean up blocks" feature to organize your workspace</li>
         <li>Delete unused blocks to reduce clutter</li>
-        <li>Practice in an empty project first</li>
+        <li>Practice in an empty/small project first</li>
     </ul>
 </div>
 
 <div style="border-left: 4px solid #2a7ae2; padding: 20px; margin: 20px 0; background-color: #f8f9fa;">
     <h4 style="margin-top: 0;">Dragging Strategies</h4>
     <ul>
-        <li>Take your time - there's no rush</li>
-        <li>Break complex moves into smaller steps</li>
-        <li>Use the undo button (Ctrl+Z) if something goes wrong</li>
-        <li>Snap blocks together from the side rather than from above</li>
+        <li>If your eye tracker supports a continuous drag (where you see the block move as you go) this works better than having to decide the end point without any visual feedback.</li>
+        <li>When you want to move a block **inside another block**, you need to make sure the block lines up with the connection point</li>
+        <li>Grab the left-hand end of a block to ensure it lands in the right place</li>        
+        <li>If you are using the micro:bit MakeCode editor, you can use keyboard controls to move a block - see  <a href="https://microbit.org/accessibility/microsoft-makecode/#keyboard-navigation">keyboard navigation in MakeCode</a>. Some users may prefer to use an on-screen keyboard to move blocks around.</li>
     </ul>
 </div>
 
-## Improved Dragging Prototype
-
-**Status: Testing Available**
-
-We've developed a prototype that makes dragging easier for eye gaze and other alternative access users. This prototype includes:
-
-- Improved target areas for grabbing blocks
-- Smoother drag behavior with less precision required
-- Better visual feedback during dragging
-- Adjustable sensitivity settings
-
-<div style="border: 2px solid #e67e22; padding: 20px; margin: 20px 0; background-color: #fef5e7;">
-    <p style="margin-top: 0;"><strong>Want to test this prototype?</strong></p>
-    <p>We're currently seeking testers for this feature. If you'd like early access, please <a href="mailto:kirsty.mcnaught@gmail.com">contact us</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLScUwZBrLn7O6XstouOKBpPTYDqz-kaxeoqoJMx4yrz-rHLksg/viewform">fill in our registration form</a>.</p>
-</div>
-
-## User Video Guides
-
-**Status: Coming Soon**
-
-We're creating video guides showing real users demonstrating tips, tricks, and workarounds for block coding with alternative access. These will include:
-
-- Step-by-step tutorials for common tasks
-- Troubleshooting common challenges
-- Success stories from students and practitioners
-- Platform-specific guidance for Scratch, MakeCode, and Code.org
-
-Check back soon or [sign up for updates](mailto:kirsty.mcnaught@gmail.com).
-
-## Platform-Specific Notes
-
-### MakeCode (micro:bit, Arcade, Minecraft)
-- Generally good cursor control support
-- Keyboard shortcuts available (useful for some access methods)
-- Can switch between blocks and text-based code
-
-### Scratch
-- Large, colorful blocks are easier to see
-- Good zoom functionality
-- Active community with lots of example projects
-
-### Code.org (including Music Lab)
-- Tutorial-based learning structure
-- Simplified interface for beginners
-- Music Lab is particularly engaging for younger students
 
 ## Need Grid-Based Access Instead?
 

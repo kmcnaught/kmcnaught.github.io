@@ -14,7 +14,7 @@ If your student uses eye gaze with grid selection, switch scanning, or other gri
 
 We've built grid interfaces that let students code without needing any cursor control. Everything works through grid cells and keyboard commands - no mouse cursor needed.
 
-These were initially designed for eye gaze access, but they would work for any other access method including switch. Get in touch if you want to help us create new versions to suit specific access needs. 
+These were initially designed for eye gaze access, but they could work for any other access method including switch. Get in touch if you want to help us create new versions to suit specific access needs. 
 
 <div style="text-align: center; margin: 30px 0;">
     <a href="https://www.loom.com/share/d107431d9b094950a56055b94320cb0c">
@@ -25,14 +25,7 @@ These were initially designed for eye gaze access, but they would work for any o
 
 ## Platform Limitations
 
-**Important:** Grid-based control requires keyboard navigation support. Currently this is only available in:
-
-- ✅ micro:bit MakeCode (fully supported)
-- 🚧 Code.org Music Lab (in development)
-- ❌ Scratch (not yet available)
-- ❌ Other MakeCode platforms (not yet available)
-
-Most block-based coding platforms are based on top of the [Blockly engine](https://developers.google.com/blockly). In 2025, Blockly added keyboard navigation but it will take some time for this to be incorporated into all mainstream Blockly-based apps. In the meantime we are actively advocating for better keyboard support in all platforms, and your feedback and participation helps build the evidence base for these improvements.
+Grid-based control needs keyboard navigation, which is currently only available in micro:bit MakeCode. We're working on developing support for Code.org Music Lab, and Blockly Games. Neither Scratch nor other MakeCode platforms have keyboard navigation yet, but we expect them to adopt it in the next year or so. 
 
 ## MakeCode Grid Interface
 
@@ -83,8 +76,6 @@ We've developed Grid 3 interfaces for the micro:bit MakeCode editor. This was po
 </div>
 
 ## Beginner Grid Interface
-
-**Status: Ready to Use**
 
 <div style="text-align: center; margin: 30px 0;">
     <img src="../images/code-dot-org-musiclab.jpg" alt="Screenshot of Code.org Music Lab interface" style="width: 40%; max-width: 400px;" />

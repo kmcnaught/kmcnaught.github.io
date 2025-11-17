@@ -1,16 +1,18 @@
 ---
 layout: page
-title: AAC Communication Support
+title: AAC Support
 permalink: /block-coding/aac-support/
 ---
 
 [← Back to Block Coding](../)
 
-## AAC Coding Vocabulary Resources
+## AAC coding vocabulary resources
 
-For students who use Augmentative and Alternative Communication (AAC) devices, having the right vocabulary is essential for discussing and explaining their coding work.
+For students who use Augmentative and Alternative Communication (AAC) devices, having the right vocabulary is essential for discussing and explaining their coding work. This is especially important as they quickly outgrow the knowledge of the adults around them, and need to explain what they are trying to do. 
 
-## Why AAC Vocabulary Matters
+Some students who do not yet have the assistive tech setup to enable them to code independently, may be able to use an AAC pageset to dictate their code to an assistant to get started. 
+
+## Why AAC vocabulary matters
 
 When students learn to code, they need to:
 
@@ -20,15 +22,19 @@ When students learn to code, they need to:
 - Debug problems with teachers or peers
 - Share their achievements
 
-Without coding-specific vocabulary in their AAC device, these conversations become unnecessarily difficult.
+Getting core vocabulary into their AAC device helps reduce communication barriers.
+
+### What's Included
+
+
 
 ## Coding Vocabulary Pagesets
 
-**Status: Ready to Use**
+### Asterics Grid
 
-We've developed AAC pagesets that include essential coding vocabulary for block-based programming.
+### Grid 3
 
-### What's Included
+
 
 <div style="border-left: 4px solid #2a7ae2; padding: 20px; margin: 20px 0; background-color: #f8f9fa;">
     <h4 style="margin-top: 0;">Core Coding Concepts</h4>
@@ -96,13 +102,29 @@ We can provide vocabulary pagesets in formats compatible with popular AAC system
 
 ## Customization Support
 
-Every student's vocabulary needs are different. We can help customize pagesets to:
+Every student's vocabulary needs are different. We can help customize pagesets for different software.
 
-- Match your student's existing vocabulary organization
-- Add project-specific terms
+- Match your student's existing vocabulary organisation
+- Add project-specific or platform-specific terms
 - Adjust complexity level for age and ability
 - Integrate with existing communication boards
 - Support specific learning goals
+
+### Asterics Grid
+
+AsTeRICS Grid is a free, web-based platform offering customizable grids for communication and control, supporting various input devices and user interfaces. 
+
+Check out some [Asterics gridsets from Loreto Dumitrescu at Zero Day Camp](https://zeroday.camp/giving-your-students-accessible-cs-alternative-communication-for-collaboration/) or get in touch if you want Asterics conversions of any of the gridsets shared below.
+
+### Grid 3
+
+[Grid](https://thinksmartbox.com/grid/) is commercial software for communication and access on Windows devices, commonly used in schools with several AAC users. If you don't have a license already, you can download a free 60-day trial to check it out.
+
+Full AAC gridset for coding in MakeCode with micro:bit
+
+<div style="text-align: center; margin: 30px 0;">
+    <img src="../images/AAC-microbit.png" alt="AAC vocabulary page for micro:bit coding" style="width: 60%; max-width: 800px;" />
+</div>
 
 ## Integration with Access Methods
 
@@ -129,7 +151,7 @@ We're continuously improving these vocabulary sets based on real-world use.
 **What we want to know:**
 - What vocabulary is missing?
 - What terms do students use most often?
-- How can we better organize the vocabulary?
+- How can we better organise the vocabulary?
 - What integration features would help?
 
 [Share your feedback →](mailto:kirsty.mcnaught@gmail.com)
