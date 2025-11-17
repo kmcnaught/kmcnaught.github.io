@@ -24,11 +24,11 @@ When students learn to code, they need to:
 
 Getting core vocabulary into their AAC device helps reduce communication barriers.
 
-### What's Included
+### What's included
 
 
 
-## Coding Vocabulary Pagesets
+## Coding vocabulary pagesets
 
 ### Asterics Grid
 
@@ -77,7 +77,7 @@ Getting core vocabulary into their AAC device helps reduce communication barrier
     </ul>
 </div>
 
-## Available Formats
+## Available formats
 
 We can provide vocabulary pagesets in formats compatible with popular AAC systems:
 
@@ -88,7 +88,7 @@ We can provide vocabulary pagesets in formats compatible with popular AAC system
 - LAMP Words for Life
 - Other systems on request
 
-## Getting the Pagesets
+## Getting the pagesets
 
 <div style="border: 2px solid #27ae60; padding: 20px; margin: 20px 0; background-color: #eafaf1;">
     <p style="margin-top: 0;"><strong>Download Coding Vocabulary</strong></p>
@@ -100,7 +100,7 @@ We can provide vocabulary pagesets in formats compatible with popular AAC system
     <p>Let us know what AAC system you use and what coding platform you're working with, and we'll provide appropriate vocabulary.</p>
 </div>
 
-## Customization Support
+## Customization support
 
 Every student's vocabulary needs are different. We can help customize pagesets for different software.
 
@@ -126,7 +126,7 @@ Full AAC gridset for coding in MakeCode with micro:bit
     <img src="../images/AAC-microbit.png" alt="AAC vocabulary page for micro:bit coding" style="width: 60%; max-width: 800px;" />
 </div>
 
-## Integration with Access Methods
+## Integration with access methods
 
 These vocabulary pagesets work alongside our other resources:
 
@@ -134,7 +134,7 @@ These vocabulary pagesets work alongside our other resources:
 - **Direct cursor control users**: Separate communication board for discussing code
 - **Combined approach**: Switch between coding and communication modes
 
-## Why This Matters
+## Why this matters
 
 Students who use AAC shouldn't have to choose between coding and communicating about their code. Having proper vocabulary means they can:
 
@@ -144,7 +144,7 @@ Students who use AAC shouldn't have to choose between coding and communicating a
 - Advocate for their own learning needs
 - Build confidence as coders
 
-## Feedback Welcome
+## Feedback welcome
 
 We're continuously improving these vocabulary sets based on real-world use.
 
@@ -156,7 +156,7 @@ We're continuously improving these vocabulary sets based on real-world use.
 
 [Share your feedback →](mailto:kirsty.mcnaught@gmail.com)
 
-## Additional AAC Resources
+## Additional AAC resources
 
 Looking for more support around coding and communication?
 

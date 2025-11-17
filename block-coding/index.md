@@ -8,13 +8,13 @@ permalink: /block-coding/
     <img src="../images/code-snippet-2.png" alt="Screenshot of block coding interface" style="width: 40%; max-width: 400px;" />
 </div>
 
-## Making Block Coding Accessible for Everyone
+## Making block coding accessible for everyone
 
 Many children first learn to code at school using block coding platforms like Scratch, Code.org or MakeCode. These are designed to be easy to use, but the "drag and drop" method can be challenging for students who use eye gaze, switch access or other alternative inputs for computer control.
 
 This project is funded by the [Blockly Accessibility Fund](https://developers.google.com/blockly/accessibility-fund). We're developing free resources to help users of eye gaze and other assistive technology to access block coding platforms.
 
-## Find Resources for Your Student
+## Find resources for your student
 
 We've organised resources for three key groups - grid-based users, mouse control users, and AAC users. Your students may match more than one group!
 
@@ -131,7 +131,7 @@ We've organised resources for three key groups - grid-based users, mouse control
     <article class="card">
         <img src="images/grid control.png" alt="Grid-based access interface" class="card-image" />
         <div class="card-content">
-            <h3>Grid-Based Access Users</h3>
+            <h3>Grid-based access users</h3>
             <p><strong>For students using:</strong> eye gaze with grid selection, switch scanning, or other grid-based methods.</p>
             <p>If your student requires grid-based access rather than direct pointing, we have designed interfaces in Grid 3 that use keyboard controls to access the micro:bit MakeCode editor.</p>
             <a href="grid-based-access" class="card-link">View grid-based access resources</a>
@@ -141,7 +141,7 @@ We've organised resources for three key groups - grid-based users, mouse control
     <article class="card">
         <img src="images/mouse control.png" alt="Eye gaze cursor control interface" class="card-image" />
         <div class="card-content">
-            <h3>Mouse Control Users</h3>
+            <h3>Mouse control users</h3>
             <p><strong>For students using:</strong> eye gaze for cursor control, joystick, head pointer, or similar devices.</p>
             <p>If your student can use direct pointer control (moving a cursor), we recommend starting there. We have tips, tricks and user videos to help make block coding easier.</p>
             <a href="direct-cursor-control" class="card-link">View direct cursor control resources</a>
@@ -152,7 +152,7 @@ We've organised resources for three key groups - grid-based users, mouse control
     <article class="card">
         <img src="images/AAC-microbit.png" alt="AAC communication page for MakeCode icons" class="card-image" />
         <div class="card-content">
-            <h3>AAC Users</h3>
+            <h3>AAC users</h3>
             <p><strong>For students who:</strong> use communication devices and want coding vocabulary support</p>
             <p>Having access to relevant vocabulary is essential when learning a new topic. Our AAC pages help students to discuss and explain their code using their AAC device. This can also be used to dictate coding where direct access to the coding tools is not possible.</p>
             <a href="aac-support" class="card-link">View AAC support resources</a>
@@ -161,7 +161,7 @@ We've organised resources for three key groups - grid-based users, mouse control
 </div>
 
 
-## Understanding the Platforms
+## Understanding the platforms
 
 Different block coding platforms (Scratch, MakeCode, Code.org) all use the same underlying technology, an engine called [Blockly](https://developers.google.com/blockly) which was built by Google. This means that any improvements to core accessibility can help with many different platforms. However, some platforms are further ahead in integrating recent accessibility advances.
 
@@ -169,13 +169,13 @@ Different block coding platforms (Scratch, MakeCode, Code.org) all use the same 
 
 **Mouse-based control:** Although we have started by focussing with micro:bit MakeCode, the resources supporting mouse-based control will be relevant to most platforms, including Scratch and Code.org.
 
-## Why This Matters
+## Why this matters
 
 Programming opens doors to STEM careers and helps students think about problems in new ways. Understanding how computers, games and apps work empowers students to modify and build software for their own needs.
 
 Many assistive tools are built by people who don't fully understand what life is like for assistive tech users. We want to help students join the community of builders and create better assistive technology - or make their own projects: games, apps, home automation, anything they can imagine.
 
-## Get Involved
+## Get involved
 
 If you're a teacher, therapist, parent, or researcher working with students who use alternative access methods, we'd love to hear from you.
 
@@ -184,7 +184,7 @@ If you're a teacher, therapist, parent, or researcher working with students who 
 
 ---
 
-### Quick Links
+### Quick links
 
 - [Resources for Direct Cursor Control](direct-cursor-control)
 - [Resources for Grid-Based Access](grid-based-access)

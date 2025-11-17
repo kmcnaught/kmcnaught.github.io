@@ -6,11 +6,11 @@ permalink: /block-coding/grid-based-access/
 
 [← Back to Block Coding](../)
 
-## Resources for Grid-Based Access
+## Resources for grid-based access
 
 If your student uses eye gaze with grid selection, switch scanning, or other grid-based methods, these resources provide keyboard navigation interfaces for block coding platforms.
 
-## How It Works
+## How it works
 
 We've built grid interfaces that let students code without needing any cursor control. Everything works through grid cells and keyboard commands - no mouse cursor needed.
 
@@ -23,17 +23,17 @@ These were initially designed for eye gaze access, but they could work for any o
     <p><em>Click to watch: Grid-based block coding in action</em></p>
 </div>
 
-## Platform Limitations
+## Platform limitations
 
 Grid-based control needs keyboard navigation, which is currently only available in micro:bit MakeCode. We're working on developing support for Code.org Music Lab, and Blockly Games. Neither Scratch nor other MakeCode platforms have keyboard navigation yet, but we expect them to adopt it in the next year or so. 
 
-## MakeCode Grid Interface
+## MakeCode grid interface
 
 **Status: Ready to Use**
 
 We've developed Grid 3 interfaces for the micro:bit MakeCode editor. This was possible because MakeCode was the first Blockly-based platform to add comprehensive keyboard navigation controls.
 
-### What's Included
+### What's included
 
 - **Standard grid**: 7 rows × 11 columns layout
 - **Compact grid**: 5 rows × 8 columns for users who need fewer cells
@@ -43,7 +43,7 @@ We've developed Grid 3 interfaces for the micro:bit MakeCode editor. This was po
 ### Features
 
 <div style="border-left: 4px solid #2a7ae2; padding: 20px; margin: 20px 0; background-color: #f8f9fa;">
-    <h4 style="margin-top: 0;">Navigate the Interface</h4>
+    <h4 style="margin-top: 0;">Navigate the interface</h4>
     <ul>
         <li>Move between toolbox, workspace, and menus</li>
         <li>Select and place blocks</li>
@@ -54,7 +54,7 @@ We've developed Grid 3 interfaces for the micro:bit MakeCode editor. This was po
 </div>
 
 <div style="border-left: 4px solid #2a7ae2; padding: 20px; margin: 20px 0; background-color: #f8f9fa;">
-    <h4 style="margin-top: 0;">Customizable Layout</h4>
+    <h4 style="margin-top: 0;">Customizable layout</h4>
     <ul>
         <li>Choose grid size that works for your student</li>
         <li>Adjust cell size and spacing</li>
@@ -63,7 +63,7 @@ We've developed Grid 3 interfaces for the micro:bit MakeCode editor. This was po
     </ul>
 </div>
 
-### Download and Setup
+### Download and setup
 
 <div style="border: 2px solid #27ae60; padding: 20px; margin: 20px 0; background-color: #eafaf1;">
     <p style="margin-top: 0;"><strong>Ready to get started?</strong></p>
@@ -75,7 +75,7 @@ We've developed Grid 3 interfaces for the micro:bit MakeCode editor. This was po
     <p>We provide full setup support and can adapt the interface to your specific access method.</p>
 </div>
 
-## Beginner Grid Interface
+## Beginner grid interface
 
 <div style="text-align: center; margin: 30px 0;">
     <img src="../images/code-dot-org-musiclab.jpg" alt="Screenshot of Code.org Music Lab interface" style="width: 40%; max-width: 400px;" />
@@ -90,7 +90,7 @@ We're working with Code.org's Music Lab to create a simpler environment, more su
 - Fun, creative projects
 - Less complex than micro:bit programming
 
-### What We're Building
+### What we're building
 
 - Grid 3 interface adapted for Music Lab
 - Larger, simpler grid layouts
@@ -103,7 +103,7 @@ We're working with Code.org's Music Lab to create a simpler environment, more su
 </div>
 
 
-## User Testing Opportunities
+## User testing opportunities
 
 We're running 1.5 hour online testing sessions. Participants receive:
 
@@ -117,7 +117,7 @@ Adult/guardian must be present for participants under 18.
 
 [Register your interest →](https://docs.google.com/forms/d/e/1FAIpQLScUwZBrLn7O6XstouOKBpPTYDqz-kaxeoqoJMx4yrz-rHLksg/viewform)
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Will this work for switch users?**
 Yes, the grid interfaces work for switch scanning as well as eye gaze. The keyboard navigation means any access method that can activate grid cells will work.
@@ -131,7 +131,7 @@ We can work with you to adapt the interface. The underlying keyboard commands wo
 **Can my student become a professional developer?**
 Possibly! Software development is an accessible career since it doesn't matter how you operate your computer. New AI coding tools are making it even more accessible. But you don't need career ambitions to enjoy block coding - there are lots of fun projects for everyone.
 
-## Questions or Feedback?
+## Questions or feedback?
 
 We want to hear about your experiences using grid-based access for coding.
 
