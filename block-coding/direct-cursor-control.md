@@ -20,8 +20,11 @@ We are producing video guides to introduce you to using eye gaze (with direct po
 
 One of the biggest challenges to coding with eye gaze is dragging blocks around using direct pointer control. In our first video, keen coder Becky shows different ways she uses TD Control to drag blocks with her Tobii Dynavox eye tracker. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/klnolZLrz8s?si=9EfhCIRQy5XPGDuI" title="YouTube video player: Different ways to drag with Tobii Dynavox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br>
+<div style="border: 2px solid #9b59b6; padding: 40px; margin: 20px 0; background-color: #f4ecf7; text-align: center;">
+    <h4 style="margin-top: 0; color: #6c3483;">Video Coming Soon</h4>
+    <p><strong>Different ways to drag with Tobii Dynavox</strong></p>
+    <p>We're producing a video guide featuring Becky demonstrating different ways to use TD Control to drag blocks with her Tobii Dynavox eye tracker.</p>
+</div>
 
 More videos are coming soon...
 
@@ -73,7 +76,6 @@ To try out the prototype in a minimal environment, go to our [testing page](http
         <li>If you are using the micro:bit MakeCode editor, you can use keyboard controls to move a block - see  <a href="https://microbit.org/accessibility/microsoft-makecode/#keyboard-navigation">keyboard navigation in MakeCode</a>. Some users may prefer to use an on-screen keyboard to move blocks around.</li>
     </ul>
 </div>
-
 
 ## Need Grid-Based Access Instead?
 

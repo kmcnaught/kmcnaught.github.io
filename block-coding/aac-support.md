@@ -8,7 +8,7 @@ permalink: /block-coding/aac-support/
 
 ## AAC coding vocabulary resources
 
-For students who use Augmentative and Alternative Communication (AAC) devices, having the right vocabulary is essential for discussing and explaining their coding work. Students can quickly outgre their teacher's coding knowledge, and need to explain what they are trying to achieve. 
+For students who use Augmentative and Alternative Communication (AAC) devices, having the right vocabulary is essential for discussing and explaining their coding work. Students can quickly outgrow their teacher's coding knowledge, and need to explain what they are trying to achieve. 
 
 Some students who do not yet have the assistive tech setup to enable them to code independently, may be able to use an AAC pageset to dictate their code to an assistant to get started. 
 
@@ -52,23 +52,51 @@ Our first Grid 3 pageset includes comprehensive coding vocabulary and MakeCode-s
 - Various coding and micro:bit-related concepts and vocabulary, such as "crocodile clips", "array", "return"
 
 #### Download
-#FIXME: put a coloured div here, like you have elsewhere, to make an obviosu call to action to download the file
+
+<style>
+.download-button {
+    display: inline-block;
+    background-color: #27ae60;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.download-button:hover {
+    background-color: #1e8449;
+    text-decoration: none;
+    color: white;
+}
+
+.download-button:focus {
+    background-color: #1e8449;
+    outline: 3px solid #111;
+    outline-offset: 2px;
+    box-shadow: 0 0 0 3px rgba(39, 174, 96, 0.3);
+    text-decoration: none;
+    color: white;
+}
+
+.download-button:active {
+    background-color: #186a3b;
+}
+</style>
+
+<div style="border: 2px solid #27ae60; padding: 20px; margin: 20px 0; background-color: #eafaf1;">
+    <p style="margin-top: 0;"><strong>Ready to download the Grid 3 pageset?</strong></p>
+    <p>This 10x8 gridset includes comprehensive micro:bit coding vocabulary and social phrases for collaborative learning.</p>
+    <p style="text-align: center; margin: 20px 0;">
+        <a href="https://www.dropbox.com/scl/fi/h7ttgvk4qzqn0yzwzlz4o/10x8_microbit_coding_17nov.gridset?rlkey=9j3v32jb8ccswv3h3v567tutj&st=81i0eb7m&dl=1" class="download-button">Download Grid 3 Pageset</a>
+    </p>
+    <p>After downloading, import the .gridset file into Grid 3. Need help? <a href="mailto:kirsty.mcnaught@gmail.com">Contact us</a> for setup support.</p>
+</div> 
 
 ## Other formats
 
 We are working on pagesets for TD Snap, and Grid 3 pages with fewer rows/columns. [Email us](mailto:kirsty.mcnaught@gmail.com) to request a specific format. 
-
-## Getting the pagesets
-
-<div style="border: 2px solid #27ae60; padding: 20px; margin: 20px 0; background-color: #eafaf1;">
-    <p style="margin-top: 0;"><strong>Download Coding Vocabulary</strong></p>
-    <p>Contact us to receive pagesets in your AAC system's format:</p>
-    <ul>
-        <li><a href="mailto:kirsty.mcnaught@gmail.com">Email to request specific format</a></li>
-        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScUwZBrLn7O6XstouOKBpPTYDqz-kaxeoqoJMx4yrz-rHLksg/viewform">Request via registration form</a></li>
-    </ul>
-    <p>Let us know what AAC system you use and what coding platform you're working with, and we'll provide appropriate vocabulary.</p>
-</div>
 
 ## Customisation support
 
@@ -108,7 +136,7 @@ These vocabulary pagesets work alongside our other resources:
 
 We're continuously improving these vocabulary sets based on real-world use.
 
-[Share your feedback and request spefic formats→](mailto:kirsty.mcnaught@gmail.com)
+[Share your feedback and request specific formats→](mailto:kirsty.mcnaught@gmail.com)
 
 ## Questions?
 

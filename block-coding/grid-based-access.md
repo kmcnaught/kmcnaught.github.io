@@ -12,94 +12,71 @@ If your student uses eye gaze with grid selection, switch scanning, or other gri
 
 ## How it works
 
-We've built grid interfaces that let students code without needing any cursor control. Everything works through grid cells and keyboard commands - no mouse cursor needed.
+We've built grid interfaces that let students code without needing any cursor control. The micro:bit MakeCode editor is loaded into an embedded browser inside Grid 3, and everything works through grid cells and keyboard commands - no mouse cursor needed.
 
 These were initially designed for eye gaze access, but they could work for any other access method including switch. Get in touch if you want to help us create new versions to suit specific access needs. 
 
-<div style="text-align: center; margin: 30px 0;">
-    <a href="https://www.loom.com/share/d107431d9b094950a56055b94320cb0c">
-        <img src="../images/screenshot-of-loom-vid.png" alt="Click to watch demo video" style="width: 60%; max-width: 800px;" />
-    </a>
-    <p><em>Click to watch: Grid-based block coding in action</em></p>
-</div>
-
 ## Platform limitations
 
-Grid-based control needs keyboard navigation, which is currently only available in micro:bit MakeCode. We're working on developing support for Code.org Music Lab, and Blockly Games. Neither Scratch nor other MakeCode platforms have keyboard navigation yet, but we expect them to adopt it in the next year or so. 
+- Grid-based control needs keyboard navigation, which is currently only available in micro:bit MakeCode. 
+- We're working on developing support for Code.org Music Lab, and Blockly Games. 
+- Neither Scratch nor other MakeCode platforms have keyboard navigation yet, but we expect them to adopt it in the next year or so. 
+- We can also make available a prototype coding platform for creating pictures with code
 
 ## MakeCode grid interface
 
-**Status: Ready to Use**
+### Compact grid: 4 rows × 7 columns 
 
-We've developed Grid 3 interfaces for the micro:bit MakeCode editor. This was possible because MakeCode was the first Blockly-based platform to add comprehensive keyboard navigation controls.
+For users who need larger cells, this layout provides core navigation (moving blocks around) on the main page, jumps between areas of the editor with 2 steps, and a few pages 1 level down for extra functionality. This gives access to all blocks with editors that can be navigated with arrows and/or tab key, but we have not yet implemented support for typing into blocks. 
 
-### What's included
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5c6OD8T0_EE?si=AFs9pb3ozfmIx07X" title="YouTube video player: Using MakeCode with eye gaze in Grid3 (4x7 layout)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Standard grid**: 7 rows × 11 columns layout
-- **Compact grid**: 5 rows × 8 columns for users who need fewer cells
-- Full keyboard navigation for all coding tasks
-- No cursor control required
+### Advanced grid: 7 rows × 11 columns layout
 
-### Features
+If users who can manage with 7 rows, this allows arrow keys around the 4 edges of the screen which makes navigation simpler. This layout also has additioal pages 1 level down for extra functionality, and a writing page for typing into blocks (with some caveats).
 
-<div style="border-left: 4px solid #2a7ae2; padding: 20px; margin: 20px 0; background-color: #f8f9fa;">
-    <h4 style="margin-top: 0;">Navigate the interface</h4>
-    <ul>
-        <li>Move between toolbox, workspace, and menus</li>
-        <li>Select and place blocks</li>
-        <li>Connect blocks together</li>
-        <li>Delete and modify blocks</li>
-        <li>Run and test your code</li>
-    </ul>
-</div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/d107431d9b094950a56055b94320cb0c" title="Loom video player: MakeCode in Grid: 7x11 layout" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<div style="border-left: 4px solid #2a7ae2; padding: 20px; margin: 20px 0; background-color: #f8f9fa;">
-    <h4 style="margin-top: 0;">Customizable layout</h4>
-    <ul>
-        <li>Choose grid size that works for your student</li>
-        <li>Adjust cell size and spacing</li>
-        <li>Compatible with eye gaze and switch scanning</li>
-        <li>Works with Grid 3 access software</li>
-    </ul>
-</div>
 
 ### Download and setup
 
+<style>
+.download-button {
+    display: inline-block;
+    background-color: #27ae60;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.download-button:hover {
+    background-color: #1e8449;
+    text-decoration: none;
+    color: white;
+}
+
+.download-button:focus {
+    background-color: #1e8449;
+    outline: 3px solid #111;
+    outline-offset: 2px;
+    box-shadow: 0 0 0 3px rgba(39, 174, 96, 0.3);
+    text-decoration: none;
+    color: white;
+}
+
+.download-button:active {
+    background-color: #186a3b;
+}
+</style>
+
 <div style="border: 2px solid #27ae60; padding: 20px; margin: 20px 0; background-color: #eafaf1;">
     <p style="margin-top: 0;"><strong>Ready to get started?</strong></p>
-    <p>Contact us to receive download links and setup instructions for Grid 3:</p>
-    <ul>
-        <li><a href="mailto:kirsty.mcnaught@gmail.com">Email for direct download</a></li>
-        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScUwZBrLn7O6XstouOKBpPTYDqz-kaxeoqoJMx4yrz-rHLksg/viewform">Request via registration form</a></li>
-    </ul>
-    <p>We provide full setup support and can adapt the interface to your specific access method.</p>
-</div>
-
-## Beginner grid interface
-
-<div style="text-align: center; margin: 30px 0;">
-    <img src="../images/code-dot-org-musiclab.jpg" alt="Screenshot of Code.org Music Lab interface" style="width: 40%; max-width: 400px;" />
-</div>
-
-We're working with Code.org's Music Lab to create a simpler environment, more suitable for beginners and those with higher access needs.
-
-### Why Music Lab?
-
-- Simplified block coding interface
-- Immediate audio feedback (engaging for all students)
-- Fun, creative projects
-- Less complex than micro:bit programming
-
-### What we're building
-
-- Grid 3 interface adapted for Music Lab
-- Larger, simpler grid layouts
-- Suitable for younger students and beginners
-- Can be adapted to other access software beyond Grid 3
-
-<div style="border: 2px solid #e67e22; padding: 20px; margin: 20px 0; background-color: #fef5e7;">
-    <p style="margin-top: 0;"><strong>Want to test the Music Lab interface?</strong></p>
-    <p>We're seeking testers for this beginner-friendly environment. <a href="mailto:kirsty.mcnaught@gmail.com">Contact us</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLScUwZBrLn7O6XstouOKBpPTYDqz-kaxeoqoJMx4yrz-rHLksg/viewform">fill in our registration form</a> for early access.</p>
+    <p style="text-align: center; margin: 20px 0;">
+        <a href="https://www.dropbox.com/scl/fi/ex2cymif8c7muf6p4ct96/Block-Coding_5x7_18nov25.gridset?rlkey=b8wgfco4n89azrawjyzh7i2y4&st=64wvlw48&dl=1" class="download-button">Download 4x7 layout</a>
+    </p>
 </div>
 
 
@@ -120,16 +97,16 @@ Adult/guardian must be present for participants under 18.
 ## Frequently asked questions
 
 **Will this work for switch users?**
+
 Yes, the grid interfaces work for switch scanning as well as eye gaze. The keyboard navigation means any access method that can activate grid cells will work.
 
 **Do you only support Grid 3?**
-No, Grid 3 is what our initial testers used. We can adapt to whatever setup you have - contact us to discuss your specific access method.
+
+We currently support Grid 3 which is what our initial testers used. Grid 3 is well suited to this task due to it's embedded browser. We are open to adapting to other software - contact us to discuss your specific access method.
 
 **What if my student uses a different AAC/access software?**
-We can work with you to adapt the interface. The underlying keyboard commands work with any software that can send keyboard input.
 
-**Can my student become a professional developer?**
-Possibly! Software development is an accessible career since it doesn't matter how you operate your computer. New AI coding tools are making it even more accessible. But you don't need career ambitions to enjoy block coding - there are lots of fun projects for everyone.
+We can work with you to adapt the interface. The underlying keyboard commands work with any software that can send keyboard input.
 
 ## Questions or feedback?
 
