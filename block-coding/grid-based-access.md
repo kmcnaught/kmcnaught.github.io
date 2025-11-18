@@ -75,7 +75,7 @@ If users who can manage with 7 rows, this allows arrow keys around the 4 edges o
 <div style="border: 2px solid #27ae60; padding: 20px; margin: 20px 0; background-color: #eafaf1;">
     <p style="margin-top: 0;"><strong>Ready to get started?</strong></p>
     <p style="text-align: center; margin: 20px 0;">
-        <a href="https://www.dropbox.com/scl/fi/ex2cymif8c7muf6p4ct96/Block-Coding_5x7_18nov25.gridset?rlkey=b8wgfco4n89azrawjyzh7i2y4&st=64wvlw48&dl=1" class="download-button">Download 4x7 layout</a>
+        <a href="https://www.dropbox.com/scl/fi/ex2cymif8c7muf6p4ct96/Block-Coding_5x7_18nov25.gridset?rlkey=b8wgfco4n89azrawjyzh7i2y4&st=64wvlw48&dl=1" class="download-button">Download 4x7 layout (.gridset)</a>
     </p>
 </div>
 
