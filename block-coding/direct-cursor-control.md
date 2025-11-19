@@ -20,11 +20,7 @@ We are producing video guides to introduce you to using eye gaze (with direct po
 
 One of the biggest challenges to coding with eye gaze is dragging blocks around using direct pointer control. In our first video, keen coder Becky shows different ways she uses TD Control to drag blocks with her Tobii Dynavox eye tracker. 
 
-<div style="border: 2px solid #9b59b6; padding: 40px; margin: 20px 0; background-color: #f4ecf7; text-align: center;">
-    <h4 style="margin-top: 0; color: #6c3483;">Video Coming Soon</h4>
-    <p><strong>Different ways to drag with Tobii Dynavox</strong></p>
-    <p>We're producing a video guide featuring Becky demonstrating different ways to use TD Control to drag blocks with her Tobii Dynavox eye tracker.</p>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/spKyD481Sfs?si=xFzKGsDRD4waJRtP" title="YouTube video player:  Demonstrating Drag Operations in TD Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 More videos are coming soon...
 
