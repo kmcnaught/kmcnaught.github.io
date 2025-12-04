@@ -27,13 +27,13 @@ These were initially designed for eye gaze access, but they could work for any o
 
 ### Compact grid: 4 rows × 7 columns 
 
-For users who need larger cells, this layout provides core navigation (moving blocks around) on the main page, jumps between areas of the editor with 2 steps, and a few pages 1 level down for extra functionality. This gives access to all blocks with editors that can be navigated with arrows and/or tab key, but we have not yet implemented support for typing into blocks. 
+For users who need larger cells, this layout provides core navigation (moving blocks around) on the main page, jumps between areas of the editor with 2 steps, and a few pages 1 level down for extra functionality. This gives access to all blocks with editors that can be navigated with arrows and/or tab key, but we have not yet implemented support for typing into blocks, except for numbers. It also comes with direct links to sample projects, and an empty template project with a reduced toolbox for beginners.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5c6OD8T0_EE?si=AFs9pb3ozfmIx07X" title="YouTube video player: Using MakeCode with eye gaze in Grid3 (4x7 layout)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Advanced grid: 7 rows × 11 columns layout
 
-If users who can manage with 7 rows, this allows arrow keys around the 4 edges of the screen which makes navigation simpler. This layout also has additioal pages 1 level down for extra functionality, and a writing page for typing into blocks (with some caveats).
+If users who can manage with 7 rows, this allows arrow keys around the 4 edges of the screen which makes navigation simpler. This layout also has additional pages 1 level down for extra functionality, and a writing page for typing into blocks (with some caveats).
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/d107431d9b094950a56055b94320cb0c" title="Loom video player: MakeCode in Grid: 7x11 layout" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -73,10 +73,13 @@ If users who can manage with 7 rows, this allows arrow keys around the 4 edges o
 </style>
 
 <div style="border: 2px solid #27ae60; padding: 20px; margin: 20px 0; background-color: #eafaf1;">
-    <p style="margin-top: 0;"><strong>Ready to get started?</strong></p>
+    <h4 style="margin-top: 0;">Ready to get started?</h4>
+    <p>Download the most recent version:</p>
     <p style="text-align: center; margin: 20px 0;">
-        <a href="https://www.dropbox.com/scl/fi/ex2cymif8c7muf6p4ct96/Block-Coding_5x7_18nov25.gridset?rlkey=b8wgfco4n89azrawjyzh7i2y4&st=64wvlw48&dl=1" class="download-button">Download 4x7 layout (.gridset)</a>
+        <a href="https://www.dropbox.com/scl/fi/yxuumd3g13tzk811q4i42/Block-Coding_4x7_04dec2025.gridset?rlkey=052e5e7l2ds3l9q963jxi6tbv&st=k0qw0d4x&dl=1" class="download-button">Download latest 4x7 layout (.gridset)</a>
     </p>
+    <h4 style="margin-top: 0;">Previous versions:</h4>
+     <a href="https://www.dropbox.com/scl/fi/ex2cymif8c7muf6p4ct96/Block-Coding_5x7_18nov25.gridset?rlkey=b8wgfco4n89azrawjyzh7i2y4&st=jakoffea&dl=1">Gridset 4x7, 18 Nov 2025</a>
 </div>
 
 
