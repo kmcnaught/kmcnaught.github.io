@@ -3,15 +3,17 @@ layout: post
 title: "Eye gaze coding with Blockly"
 ---
 
-I've just been filling in a project evaluation form for my project funded by [The Blockly Accessibility Fund] and wanted to take the chance to reflect and share what I've been working on. 
+I've just been filling in a project evaluation form for my project funded by [The Blockly Accessibility Fund](https://developers.google.com/blockly/accessibility-fund) and wanted to take the chance to reflect and share what I've been working on. 
 
 In this project, I wanted to open up block-based coding (think Scratch, MakeCode, etc) to young people with disabilities who use eye gaze to control their computer. The funding from Google.org has given me a chance to focus on meeting individuals, seeing where they are at, and building tools to give them access to an essential part of the curriculum. 
+
+<img src="/images/child_eye_gaze_concept.png" alt="A child using eye gaze technology to interact with a computer screen" width="70%" style="display:block; margin:auto;">
 
 ## Why this matters
 
 Learning to code is part of learning how computers work, and how you can make them work for you. We want all students to understand how to control and shape the tools they use, not just to be passive consumers. I often argue that some of the people who have the most to gain from digital literacy and confidence are those who use assistive technology to give them more access to communication, studies, work, and many aspects of their lives. I want those individuals to have the skills and knowledge to build, steer or demand better assistive technology for themselves and their peers. 
 
-![Block code program: when space pressed, ask 'can I code too?', pause, answer 'YES!', show smiley face|300](images/code-snippet-2.png)
+<img src="/images/code-snippet-2.png" alt="Block code program: when space pressed, ask 'can I code too?', pause, answer 'YES!', show smiley face" width="50%" style="display:block; margin:auto;">
 
 ## The people
 
@@ -37,7 +39,7 @@ In user testing we found that 3 main groups of users emerged, with quite differe
 
 ### Grid-based users
 
-Some children have not yet acquired the skills or experience to directly control a mouse, and need to use a grid-based system where the only requirement is to hold your gaze on large targets. We can give these students a grid-based interface that sends keyboard commands to a coding interface - this was only made possible by the work of [Blockly] and [The Micro:bit Foundation] to add keyboard controls to the micro:bit MakeCode editor. Now that more coding platforms such as [Code.org] are adding keyboard controls, the options here will improve further. 
+Some children have not yet acquired the skills or experience to directly control a mouse, and need to use a grid-based system where the only requirement is to hold your gaze on large targets. We can give these students a grid-based interface that sends keyboard commands to a coding interface - this was only made possible by the work of [Blockly](https://developers.google.com/blockly) and [The Micro:bit Foundation](https://microbit.org/) to add keyboard controls to the micro:bit MakeCode editor. Now that more coding platforms such as [Code.org](https://code.org/en-US) are adding keyboard controls, the options here will improve further. 
 
 We built interfaces for these users, allowing them to independently complete micro:bit coding activities using exactly the same micro:bit MakeCode Editor that a non-disabled peer might use (embedded within a grid-based interface to give them controls). 
 
@@ -54,9 +56,9 @@ With me there to support, it was possible to focus on the learning objective and
 
 But a more realistic scenario would be a teacher who isn't themselves confident with coding, isn't confident with the MakeCode editor, and isn't familiar with the grid interface I've provided, trying this with a child whose cognitive ability to engage they're unsure of. That's a lot of barriers stacked up, and all of them obscuring the opportunity for the student to show their competence. 
 
-Even in mainstream settings, I've spoken to schools who have acquired a box of micro:bits which then languish in a cupboard for years until there was a teacher confident enough to open the box (spoiler: as soon as they've taught 1 lesson they realise it's super easy with all the micro:bit teaching resources). We know from the DofE's report [Developing a competency framework for effective assistive technology training] by [Rohan Slaughter] and [Tom Griffiths] that basic IT skills are often a barrier in specialist schools and colleges, which significantly impacts the ability to use AT (assistive technology) to support learners. 
+Even in mainstream settings, I've spoken to schools who have acquired a box of micro:bits which then languish in a cupboard for years until there was a teacher confident enough to open the box (spoiler: as soon as they've taught 1 lesson they realise it's super easy with all the micro:bit teaching resources). We know from the DofE's report [Developing a competency framework for effective assistive technology training](https://assets.publishing.service.gov.uk/media/6819c5ff2de62f4a103a82f5/developing-a-competency-framework-for-effective-assistive-technology-training.pdf) by [Rohan Slaughter](https://www.linkedin.com/in/rohan-slaughter-a4396a44/recent-activity/all/) and [Tom Griffiths](https://www.linkedin.com/in/tg-at/) that basic IT skills are often a barrier in specialist schools and colleges, which significantly impacts the ability to use AT (assistive technology) to support learners. 
 
-To better tackle this barrier, I am working on a new [accessible coding introductory curriculum] designed specifically for eye gaze or switch access without cursor control, alternative single-click cursor control (eye gaze / touch / head mouse / switch-based gliding cursor) and many other assistive tech setups. We're both minimising the access barriers in the coding interface, and scaffolding activities that get you used to it step-by-step. If this interest you, [sign up here to be involved].
+To better tackle this barrier, I am working on a new [accessible coding introductory curriculum] designed specifically for eye gaze or switch access without cursor control, alternative single-click cursor control (eye gaze / touch / head mouse / switch-based gliding cursor) and many other assistive tech setups. We're both minimising the access barriers in the coding interface, and scaffolding activities that get you used to it step-by-step. If this interest you, [sign up here to be involved](https://zeroday.camp/volunteers-needed-accessible-cs-curriculum-testers/).
 
 [Screenshot - links to video]
 
@@ -81,11 +83,11 @@ My goals going forward are two-fold:
 1. Build tools that work as a more accessible first coding experience, as a stepping stone towards the mainstream platforms. Make sure students can try coding without juggling several layers of new information and access barriers. 
 2. Show the supporting adults that coding *can* be accessible, and is an important part of the curriculum for their students. Show the students that people like them can do this. 
 
-I am now working with [Loreto] and [Chris] on a new [accessible coding curriculum] design for eye gaze, switch access, and many other assistive tech setups. It scaffolds activities step by step, minimises the access barriers in the coding interface, and with direct pointer control, never requires a drag. Just click on a block to insert it, and rearrange blocks by clicking on connections. 
+I am now working with [Loreto Dumitrescu](https://www.linkedin.com/in/loreto-dumitrescu/) and [Christopher Marotta](https://www.linkedin.com/in/christopher-marotta-otd-otr-l-87079aa8/) on a new [accessible coding curriculum] design for eye gaze, switch access, and many other assistive tech setups. It scaffolds activities step by step, minimises the access barriers in the coding interface, and with direct pointer control, never requires a drag. Just click on a block to insert it, and rearrange blocks by clicking on connections. 
 
 The goal is to provide a first coding environment where access challenges are minimised. Let a student build familiarity with coding concepts in a simpler environment, so they're not learning everything at once. The scaffolded steps and simple environment make it easy enough for a teacher to pick up, so they aren't afraid to give it a go and see what their students are capable of. 
 
-We're planning to trial this with a number of schools this year. If this interests you, [sign up here to be involved].
+We're planning to trial this with a number of schools this year. If this interests you, [sign up here to be involved](https://zeroday.camp/volunteers-needed-accessible-cs-curriculum-testers/).
 
 [Screenshot - links to video]
 
