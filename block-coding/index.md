@@ -14,9 +14,21 @@ Many children first learn to code at school using block coding platforms like Sc
 
 This project is funded by the [Blockly Accessibility Fund](https://developers.google.com/blockly/accessibility-fund). We're developing free resources to help users of eye gaze and other assistive technology to access block coding platforms.
 
-## Find resources for your student
+## Coming soon: an introductory coding curriculum
 
-We've organised resources for three key groups - grid-based users, mouse control users, and AAC users. Your students may match more than one group!
+<div style="border: 2px solid #1a5bb8; border-radius: 10px; padding: 20px 24px; background: #f0f5ff; margin: 24px 0;">
+
+<p style="margin-top: 0;"><strong>We are building a new introductory coding curriculum</strong> designed specifically for students who use eye gaze, switch access, or other assistive technology. Unlike existing platforms, this environment is built from the ground up to minimise access barriers — no dragging required, simpler navigation, and scaffolded step-by-step activities that a teacher can pick up confidently.</p>
+
+<p>It is designed to be a first coding experience: a place to build familiarity with coding concepts before moving on to more open-ended platforms. We are planning trials with schools this year and would love to hear from you.</p>
+
+<a href="https://zeroday.camp/volunteers-needed-accessible-cs-curriculum-testers/" style="display: inline-block; margin-top: 4px; padding: 10px 20px; background: #1a5bb8; color: white; font-weight: bold; text-decoration: none; border-radius: 5px;">Find out more and sign up for updates</a>
+
+</div>
+
+## Available now: resources for micro:bit MakeCode
+
+We've organised resources for three key groups. Your student may match more than one!
 
 <style>
 .cards-container {
