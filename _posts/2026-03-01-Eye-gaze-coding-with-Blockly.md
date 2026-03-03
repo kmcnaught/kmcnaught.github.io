@@ -7,7 +7,7 @@ I've just been filling in a project evaluation form for my project funded by [Th
 
 In this project, I wanted to open up block-based coding (think Scratch, MakeCode, etc) to young people with disabilities who use eye gaze to control their computer. The funding from Google.org has given me a chance to focus on meeting individuals, seeing where they are at, and building tools to give them access to an essential part of the curriculum. 
 
-<img src="/images/child_eye_gaze_concept.png" alt="A child using eye gaze technology to interact with a computer screen" width="50%" style="display:block; margin:auto;">
+<!-- <img src="/images/child_eye_gaze_concept.png" alt="A child using eye gaze technology to interact with a computer screen" width="50%" style="display:block; margin:auto;"> -->
 
 ## Why this matters
 
