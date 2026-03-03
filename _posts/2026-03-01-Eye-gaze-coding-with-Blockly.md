@@ -119,16 +119,32 @@ Check out my [block coding resources](/block-coding) for access to gridsets, vid
 
 ## What's next
 
+
+<div style="width: 50%; margin: 20px auto;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+        <iframe src="https://www.loom.com/embed/5b21d9f2a0714ca3b847fec9858396b6"
+                title="Loom video player: Guided coding in Grid with eye gaze (no sound)"
+                frameborder="0"
+                webkitallowfullscreen
+                mozallowfullscreen
+                allowfullscreen
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+        </iframe>
+    </div>
+    <p style="text-align: center;"><em>Guided coding in Grid with eye gaze</em></p>
+</div>
+
 My goals going forward are two-fold:
 
 1. Build tools that work as a more accessible first coding experience, as a stepping stone towards the mainstream platforms. Make sure students can try coding without juggling several layers of new information and access barriers. 
 2. Show the supporting adults that coding *can* be accessible, and is an important part of the curriculum for their students. Persuade more people that this is worth doing, and show students that people like them can code.
 
-I am currently collaborating with the [NYC Metro Chapter of Makers Making Change](https://www.nycmetrommc.org/home) on a new [accessible coding curriculum] design for eye gaze, switch access, and many other assistive tech setups. It scaffolds activities step by step, minimises the access barriers in the coding interface, and with direct pointer control, never requires a drag. Just click on a block to insert it, and rearrange blocks by clicking on connections. 
+I am currently collaborating with the [NYC Metro Chapter of Makers Making Change](https://www.nycmetrommc.org/home) on a new [accessible coding introductory curriculum](https://zeroday.camp/volunteers-needed-accessible-cs-curriculum-testers/) design for eye gaze, switch access, and many other assistive tech setups. It's based on [Blockly Games](https://blockly.games/) but additionally scaffolds activities step by step, minimises the access barriers in the coding interface, and doesn't requires any drag operations. Just click on a block to insert it, and rearrange blocks by clicking on connections. 
 
-The goal is to provide a first coding environment where access challenges are minimised. Let a student build familiarity with coding concepts in a simpler environment, so they're not learning everything at once. The scaffolded steps and simple environment make it easy enough for a teacher to pick up, so they aren't afraid to give it a go and see what their students are capable of. 
+The goal is to provide a first coding environment where access challenges are minimised. We let a student build familiarity with coding concepts in a simpler environment, and get an early sense of success. The scaffolded steps and simple environment make it easier for a teacher to pick up, so they aren't afraid to give it a go and see what their students are capable of. 
 
 We're planning to trial this with a number of schools this year. If this interests you, [sign up here to be involved](https://zeroday.camp/volunteers-needed-accessible-cs-curriculum-testers/).
+
 
 <!-- <div style="position: relative; padding-bottom: 66.66666666666666%; height: 0;"><iframe src="https://www.loom.com/embed/49d03b00395841e38a517f143a62a89b" title="Loom video player: Demo of moving blocks without dragging" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> -->
 
