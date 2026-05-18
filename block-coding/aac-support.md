@@ -108,22 +108,6 @@ Every student's vocabulary needs are different. We can help customize pagesets f
 - Integrate with existing communication boards
 - Support specific learning goals
 
-### Asterics Grid
-
-AsTeRICS Grid is a free, web-based platform offering customizable grids for communication and control, supporting various input devices and user interfaces. 
-
-Check out some [Asterics gridsets from Loreto Dumitrescu at Zero Day Camp](https://zeroday.camp/giving-your-students-accessible-cs-alternative-communication-for-collaboration/) or get in touch if you want Asterics conversions of any of the gridsets shared below.
-
-### Grid 3
-
-[Grid](https://thinksmartbox.com/grid/) is commercial software for communication and access on Windows devices, commonly used in schools with several AAC users. If you don't have a license already, you can download a free 60-day trial to check it out.
-
-Full AAC gridset for coding in MakeCode with micro:bit
-
-<div style="text-align: center; margin: 30px 0;">
-    <img src="../images/AAC-microbit.png" alt="AAC vocabulary page for micro:bit coding" style="width: 60%; max-width: 800px;" />
-</div>
-
 ## Integration with access methods
 
 These vocabulary pagesets work alongside our other resources:
