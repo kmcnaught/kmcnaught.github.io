@@ -29,7 +29,9 @@ If someone is already happy using [AutoHotkey](https://www.autohotkey.com/) scri
 
 This was useful enough it became part of the individual's standard setup, proving it was useful. But I think you'll agree it's not the prettiest, and not great for sharing with others.
 
-![Dragging a MakeCode block with ClickLock, showing CLICKLOCK ACTIVATED 3 times next to mouse cursor](/images/click-lock-ahk.gif)
+<video controls muted loop playsinline aria-label="Dragging a MakeCode block with ClickLock, showing CLICKLOCK ACTIVATED text appearing next to the mouse cursor">
+  <source src="/images/click-lock-ahk.mp4" type="video/mp4">
+</video>
 
 ## Final solution: Standalone app, written by AI
 
@@ -38,7 +40,9 @@ This was an excellent small piece of work to offload to AI - the scope is small,
 
 Run the app, and optionally get it to register to be launched on startup. Now, any time you hold the mouse down for more than half the configured lock time, it will start a visible "charging" animation to show you how much longer you need to hold it for (or warn you to release if you *don't* want it engaging). Once locked, the fully charged ring changes colour and stays up, until released. Optionally, it can make an accompanying 'click' noise whenever it engages or disengages. This is much cleaner visually than the AutoHotkey version, and feels really natural. Since building the app 3 weeks ago I've forgotten to turn off ClickLock on my own machine, and I actually like it! 
 
-![Dragging a Scratch code block with Click Lock indicator, showing a charging animation](/images/scratch-click-lock.gif)
+<video controls muted loop playsinline aria-label="Dragging a Scratch code block with ClickLock indicator, showing a charging animation around the cursor">
+  <source src="/images/scratch-click-lock.mp4" type="video/mp4">
+</video>
 
 
 ## Closing thoughts
