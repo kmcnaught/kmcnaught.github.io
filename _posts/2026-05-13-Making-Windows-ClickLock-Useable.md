@@ -7,7 +7,7 @@ title: Making Windows ClickLock useable
 
 ## TL;DR
 
-Want visual or audio feedback (or both) when Windows locks the mouse for you? Head to [ClickLockIndicator on github](https://github.com/kmcnaught/ClickLockIndicator) and download straight from the [releases page](https://github.com/kmcnaught/ClickLockIndicator/releases)
+Want visual or audio feedback (or both) when Windows locks the mouse for you? Head to [ClickLockIndicator on github](https://github.com/kmcnaught/ClickLockIndicator), download straight from the [releases page](https://github.com/kmcnaught/ClickLockIndicator/releases), download and run the standalone EXE - no installation needed.
 
 ## Introduction
 
@@ -35,8 +35,7 @@ This was useful enough it became part of the individual's standard setup, provin
 
 ## Final solution: Standalone app, written by AI
 
-This was an excellent small piece of work to offload to AI - the scope is small, the result easy to test. I had a chat with Claude Code about the goal, gave it the existing AutoHotkey scripts as a starting point, and brainstormed some UI improvements to squeeze in. There were a few issues along the way, but with some mild supervision we soon had a standalone portable app built in C#.
-
+This was an excellent small piece of work to offload to AI - the scope is small, the result easy to test. I had a chat with Claude Code about the goal, gave it the existing AutoHotkey scripts as a starting point, and brainstormed some UI improvements to squeeze in. There were a few issues along the way, but with some mild supervision we soon had a standalone app - a single .exe file you download and run, no installation needed. 
 
 Run the app, and optionally get it to register to be launched on startup. Now, any time you hold the mouse down for more than half the configured lock time, it will start a visible "charging" animation to show you how much longer you need to hold it for (or warn you to release if you *don't* want it engaging). Once locked, the fully charged ring changes colour and stays up, until released. Optionally, it can make an accompanying 'click' noise whenever it engages or disengages. This is much cleaner visually than the AutoHotkey version, and feels really natural. Since building the app 3 weeks ago I've forgotten to turn off ClickLock on my own machine, and I actually like it! 
 
