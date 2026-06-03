@@ -22,7 +22,7 @@ This project is funded by the [Blockly Accessibility Fund](https://developers.go
 
 <p>It is designed to be a first coding experience: a place to build familiarity with coding concepts before moving on to more open-ended platforms. We are planning trials with schools this year and would love to hear from you.</p>
 
-<a href="/blockly-motor-access/" class="bc-cta">Find out more and try the maze game</a>
+<a href="/cs-for-motor-access/" class="bc-cta">Find out more and try the maze game</a>
 
 <p style="margin-top: 16px; margin-bottom: 0;"><a href="https://zeroday.camp/volunteers-needed-accessible-cs-curriculum-testers/">Sign up to be involved in trials</a></p>
 

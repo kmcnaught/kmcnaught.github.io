@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coding with eye gaze and switch access
-permalink: /blockly-motor-access/
+permalink: /cs-for-motor-access/
 ---
 
 <p class="bma-subhead">A maze game and curriculum for students who can't use a standard mouse or keyboard. Built on Blockly, aggressively optimised for two different user input methods.</p>
