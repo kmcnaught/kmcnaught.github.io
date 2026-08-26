@@ -21,4 +21,4 @@ I build robust and useable applications for the real world.
 
 <!-- I have experience working in early-stage technology startups in the field of computer vision, where I have worked on algorithms, product development and user experience design. I can help companies to translate promising lab protoypes from current-edge research into intuitive and easy to use applications. 
  -->
-I am available to hire as a [consultant](consulting).
+I offer consulting services through [K McNaught Consulting Ltd](consulting).

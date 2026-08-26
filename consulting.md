@@ -4,13 +4,13 @@ title: Consulting
 permalink: /consulting/
 ---
 
-I am available to hire as a consultant. I bring experience from early stage startups and the world of academic research. I can bridge this gap for clients who want to bring research into the real world. I have a keen appreciation for product usability, a strong awareness of accessibility and a breadth of software development experience. I speak the language of academics, users, developers and business practitioners.
+I bring experience from early stage startups and the world of academic research. I can bridge this gap for clients who want to bring research into the real world. I have a keen appreciation for product usability, a strong awareness of accessibility and a breadth of software development experience. I speak the language of academics, users, developers and business practitioners.
 
 I have experience supporting individuals with access needs, in particular those using alternative input methods to control their computer.
 
 ### What can I do for you?
 
-I work on a freelance basis, helping companies to:
+I work with clients to:
 - build accessible software
 - evaluate the accessibility of their products and services
 - adapt existing games for eye-gaze users
